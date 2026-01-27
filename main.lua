@@ -52,6 +52,5 @@ function love.update(dt) -- Oyun açık olduğu sürece güncellenen funsiyondur
 end
 
 function love.draw() -- Kullanıcıya görüntü sunan fonksiyon.
-  love.graphics.print(hello, 400, 300)
   love.graphics.circle("fill", karakter.konum_x, karakter.konum_y, karakter.genislik, 50)
 end
