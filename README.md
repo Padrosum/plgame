@@ -6,4 +6,5 @@ bir tezahürü mahiyetinde bu projeyi başlatıyorum.
 
  V: 0.1
 
+Yapay Zeka kullanılmamıştır.
 
