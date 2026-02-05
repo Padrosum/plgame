@@ -8,3 +8,4 @@ bir tezahürü mahiyetinde bu projeyi başlatıyorum.
 
 Yapay Zeka kullanılmamıştır.
 
+- Terk edildi 5/2/2026
